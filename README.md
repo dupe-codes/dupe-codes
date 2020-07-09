@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo 👋
 
 <!--
 **njdup/njdup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Nick ([pronoun.is/he](http://pronoun.is/he))
+
+I graduated from Stanford with a B.S. in Computer Science in 2016, and have worked as a software engineer at the financial technology startup Addepar ever since. Starting Fall 2020, I’ll be at Princeton pursuing a Master’s in Computer Science.
+
+My interests include the development of safe and fair artificial intelligence, the design and analysis of algorithms, and the application of both to issues of public health and environmental management. I specifically plan to use my coming time in graduate school to research machine learning interpretability and to explore ways to contribute to infectious disease research.
+
+Outside of work, I read a bunch of books and play a ton of chess. I also like to draw, evidence available [@okawbae](https://www.instagram.com/okawbae/).
