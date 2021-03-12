@@ -19,6 +19,6 @@ I'm Nick ([pronoun.is/he](http://pronoun.is/he))
 
 I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as a software engineer at the financial technology startup Addepar until late 2020. I’m taking time off now to selfishly indulge my art practice.
 
-My current technical obsession are VR and game development. Both interest me as mediums for storytelling and artistic expression.
+My current technical obsessions are VR and game development. Both interest me as mediums for storytelling and artistic expression.
 
 When I'm not coding, I read a bunch of books 📚 and play a ton of chess ♛. I also like to draw ✎, evidence available [@okawbae](https://www.instagram.com/okawbae/).
