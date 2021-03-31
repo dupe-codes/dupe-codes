@@ -21,4 +21,4 @@ I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as 
 
 My current technical obsessions are VR and game development. Both interest me as mediums for storytelling and artistic expression.
 
-When I'm not coding, I read a bunch of books 📚 and play a ton of chess ♛. I also like to draw ✎, evidence available [@okawbae](https://www.instagram.com/okawbae/).
+When I'm not coding, I read a bunch of books 📚 and play a ton of chess ♛. I also like to draw ✎, evidence available [@dupe_art](https://www.instagram.com/dupe_art/).
