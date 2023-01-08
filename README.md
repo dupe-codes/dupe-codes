@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nick ([pronoun.is/he](http://pronoun.is/he))
 
-I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as a software engineer at the financial technology startup Addepar until late 2020. I’m taking time off now to selfishly indulge my art practice.
+I'm Nick (he/him) 👋
 
-My current technical obsessions are VR and game development. Both interest me as mediums for storytelling and artistic expression.
+I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as a software engineer at the financial technology startup Addepar until late 2020. After a bit of time off to selfishly indulge my art practice, I'm now a senior software engineer at Attentive on the data platform team.
 
-When I'm not coding, I read a bunch of books 📚 and play a ton of chess ♛. I also like to draw ✎. A lot. 
+My current technical obsessions are game development and streaming data platforms for analytics and machine learning. The former interests me as a medium for artistic expression and the latter as an exciting emergent technical domain. Sometime in the medium-term future, I’d like to land a gig as a research engineer.
+
+When I'm not coding, I read a bunch of books 📚 and play a ton of games 🎮. I also like to draw ✎. A lot.
+
+You can reach me at ✉️ [dupe@hey.com](mailto:dupe@hey.com)
