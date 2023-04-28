@@ -20,7 +20,16 @@ I'm Nick (he/him)
 
 I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as a software engineer at the financial technology startup Addepar until late 2020. After a bit of time off to selfishly indulge my art practice, I'm now a senior software engineer at Attentive on the data platform team.
 
-My current technical obsessions are game development and streaming data platforms for analytics and machine learning. The former interests me as a medium for artistic expression and the latter as an exciting emergent technical domain. Sometime in the medium-term future, I’d like to land a gig as a research engineer.
+A random sampling of my interests:
+
+- mathematics
+- algorithms & data structures
+- artificial intelligence
+- computer systems & systems programming
+- programming languages
+- video games & storytelling
+
+_disclaimer: stated interest != guarantees of aptitude_ 🤭 
 
 When I'm not coding, I read a bunch of books 📚 and play a ton of games 🎮. I also like to draw ✎. A lot.
 
