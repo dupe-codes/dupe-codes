@@ -27,6 +27,7 @@ A random sampling of my interests:
 - artificial intelligence
 - computer systems & systems programming
 - programming languages
+- complexity theory
 - video games & storytelling
 
 _disclaimer: stated interest != guarantees of aptitude_ 🤭 
