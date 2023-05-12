@@ -35,3 +35,7 @@ _disclaimer: stated interest != guarantees of aptitude_ 🤭
 When I'm not coding, I read a bunch of books 📚 and play a ton of games 🎮. I also like to draw ✎. A lot.
 
 You can reach me at ✉️ [dupe@hey.com](mailto:dupe@hey.com)
+
+--- 
+
+![stats 🦾](https://github-readme-stats.vercel.app/api?username=njdup&theme=tokyonight&show_icons=true&count_private=true)
