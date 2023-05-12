@@ -38,4 +38,4 @@ You can reach me at ✉️ [dupe@hey.com](mailto:dupe@hey.com)
 
 --- 
 
-![stats](https://github-readme-stats.vercel.app/api?username=njdup&theme=tokyonight&show_icons=true&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=njdup&theme=tokyonight&show_icons=true&count_private=true&custom_title="stats 🦾")
