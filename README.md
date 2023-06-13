@@ -43,6 +43,6 @@ You can reach me at [dupe@hey.com](mailto:dupe@hey.com)
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=njdup&theme=tokyonight&show_icons=true&count_private=true&hide_title=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njdup&hide=html,css,shell,jupyter&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njdup&hide=html,css,shell,jupyter%20notebook&layout=compact&theme=tokyonight" />
   </a>
 </div>
