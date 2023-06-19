@@ -40,7 +40,7 @@ You can reach me at [dupe@hey.com](mailto:dupe@hey.com)
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=njdup&theme=tokyonight&show_icons=true&count_private=true&hide_title=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=njdup&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_rank=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njdup&hide=html,css,shell,jupyter%20notebook&layout=compact&theme=tokyonight" />
