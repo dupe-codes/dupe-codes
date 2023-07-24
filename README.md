@@ -22,13 +22,11 @@ I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as 
 
 A random sampling of my interests:
 
-- mathematics
+- math
 - algorithms & data structures
-- artificial intelligence
-- computer systems & systems programming
-- programming languages
-- complexity theory
-- video games & storytelling
+- low-level programming (kernels, osdev, HPC)
+- compilers & programming languages
+- AI/ML (especially topics of interpretability & its theoretical foundations)
 
 _disclaimer: stated interest != guarantees of aptitude_ 🤭 
 
