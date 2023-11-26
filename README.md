@@ -32,7 +32,7 @@ _disclaimer: stated interest != guarantees of aptitude_ 🤭
 
 When I'm not coding, I read a bunch of books and play a ton of games 🎮. I also like to draw ✎. A lot.
 
-You can reach me at [dupe@hey.com](mailto:dupe@hey.com)
+You can reach me at [dupe@dupe.codes](mailto:dupe@dupes.codes)
 
 --- 
 
