@@ -38,9 +38,9 @@ You can reach me at [dupe@dupe.codes](mailto:dupe@dupes.codes)
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=njdup&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_rank=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dupe-codes&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_rank=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njdup&hide=html,css,shell,jupyter%20notebook&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dupe-codes&hide=html,css,shell,jupyter%20notebook&layout=compact&theme=tokyonight" />
   </a>
 </div>
