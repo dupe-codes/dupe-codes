@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Nick (he/him)
 
-I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as a software engineer at the financial technology startup Addepar until late 2020. After a bit of time off to selfishly indulge my art practice, I worked as a senior software engineer at Attentive on the data platform team. I'm now a software engineer at Arena AI.
+I graduated from Stanford with a B.S. in Computer Science in 2016 and worked as a software engineer at the financial technology startup Addepar until late 2020. After a bit of time off to selfishly indulge my art practice, I worked as a senior software engineer at Attentive on the data platform team. Then I joined the team at Arena AI as a... yup, software engineer. I'm now at Numeric (as a software engineer btw), though my streak of working at companies whose names start with the letter A has finally ended. Now begins the era of the letter N.
 
 A random sampling of my interests:
 
